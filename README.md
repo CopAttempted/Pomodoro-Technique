@@ -1,6 +1,8 @@
 # Pomodoro Technique Timer App
 
-![Pomodoro Technique App](Screenshot.png)
+<div align="center">
+  <img src="Screenshot.png" alt="Pomodoro Technique App">
+</div>
 
 ## Overview
 
