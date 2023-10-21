@@ -22,7 +22,7 @@ This is a minimalistic Pomodoro Technique app created in Python 3 with a graphic
 1. Clone or download this repository to your local machine.
 
    ```bash
-   git clone https://github.com//RedeemedSpoon//Pomodoro-Technique.git
+   git clone https://github.com/RedeemedSpoon/Pomodoro-Technique.git
    ```
 
 2. Make sure you have Python 3 installed on your system.
